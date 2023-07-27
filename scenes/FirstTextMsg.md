@@ -1,4 +1,4 @@
-![Your-Phone](Pictures/BlurPhoneMsg.png)
+![BlurPhoneMsg](Pictures/BlurPhoneMsg.png)
 
 "Are you guys here or nah?"
 
